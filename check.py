@@ -16,9 +16,9 @@ WHATSAPP_API = "https://wa.mitrape.in/api/send-text"
 API_KEY = "29f6ed338b5360748bd1"
 
 MOBILE_NUMBERS = [
-    "91XXXXXXXXXX",
-    "91YYYYYYYYYY",
-    "91ZZZZZZZZZZ"
+    "917538841178",
+    "918072246726",
+    "919342953325"
 ]
 
 MESSAGE_TEXT = "🎬 Jana Nayagan booking is LIVE on BookMyShow!"
